@@ -7,6 +7,11 @@ Information and Communications Technology is becoming increasingly pervasive to 
 
 ### Issues that can be solved using this framework
 
+|Issue                                         | Description  | Url | 
+|----------------------------------------------|--------------|-----|
+
+
+
 ### IoT sensors that can be used
 
 |Sensor name                                   | sensor specification| Uses  | References  | 
