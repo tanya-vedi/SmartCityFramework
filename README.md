@@ -9,8 +9,6 @@ Information and Communications Technology is becoming increasingly pervasive to 
 
 ### IoT sensors that can be used
 
-##IoT sensors
-
 |Sensor name                                   | sensor specification| Uses  | References  | 
 |----------------------------------------------|---------------|---------|------|
 |  |            |         |      |
