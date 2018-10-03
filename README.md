@@ -16,4 +16,5 @@ Information and Communications Technology is becoming increasingly pervasive to 
 
 |Sensor name                                   | sensor specification| Uses  | References  | 
 |----------------------------------------------|---------------|---------|------|
-|  |            |         |      |
+| DHT22 |temperature-humidity sensor | Used to measure air temperature and humidity. | [Adafruit](https://learn.adafruit.com/dht)     |
+| UVM-30A UVA/UVB | UV Sensor | The UV Sensor is used for detecting the intensity of incident ultraviolet(UV) radiation. | [The Turtles Bay project](https://sites.google.com/site/myterrarium23/domotique/uvm-30a-uva-uvb-sensor)     |
