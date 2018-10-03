@@ -58,5 +58,8 @@ We intend to expand this model to the university campus with an objective of imp
 
 ### Machine Learning algorithms that can be used
 
+| Algorithm name | Algorithm category | Usage in environment monitoring | Type of data needed | IoT sensors | Reference |
+|----------------|--------------------|---------------------------------|---------------------|-------------|-----------|
+
 ### Web platform design 
 
