@@ -6,7 +6,7 @@ Information and Communications Technology is becoming increasingly pervasive to 
 
 ### Building blocks of smart city framework
 
-![Building blocks of the framework](/relative/path/to/img.jpg?raw=true "Building blocks of smart city framework")
+![Building blocks of the framework](https://user-images.githubusercontent.com/23434032/46395924-82edf280-c70b-11e8-9dd1-9fc3d70e5cd7.jpg?raw=true "Building blocks of smart city framework")
 
 There are two users who will be benefiting from our smart city framework : general public and the admin who controls the accessibility provided to the general public. The building blocks for smart city framework comprises of -
 
