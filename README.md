@@ -56,6 +56,7 @@ We intend to expand this model to the university campus with an objective of imp
 |----------------------------------------------|---------------|---------|------|
 | DHT22 |temperature-humidity sensor | Used to measure air temperature and humidity. | [Adafruit](https://learn.adafruit.com/dht)     |
 | UVM-30A UVA/UVB | UV Sensor | The UV Sensor is used for detecting the intensity of incident ultraviolet(UV) radiation. | [The Turtles Bay project](https://sites.google.com/site/myterrarium23/domotique/uvm-30a-uva-uvb-sensor)     |
+|LDR|Light Detector|Can be used for detect a parking space|[Light Detector using LDR](https://www.electronicshub.org/light-detector-using-ldr/) [Light Sensor](https://www.electronics-tutorials.ws/io/io_4.html)|
 
 ### Machine Learning algorithms that can be used
 
