@@ -48,6 +48,7 @@ We intend to expand this model to the university campus with an objective of imp
 |----------------------------------------------|--------------|-----|
 |Parking Car on street| With the app on your smartphone, you can see how many parking spaces are available. In addition to showing on your smartphone, you can view how many parking spaces are available on the boards that address the streets.|[Intelligent Parking Space Detection System Based on Image Processing](http://ijimt.org/papers/228-G0038.pdf) |
 |Adapting semaphore on a emergency case|Intelligent semaphore can be adapting when ocuurs a emergency cases, like a crash car, medical emergency case with ambulance, traffic jam. |[SMART_TRAFFIC_CONTROL_SYSTEM_FOR_AMBULANCE](https://www.researchgate.net/publication/315565890_SMART_TRAFFIC_CONTROL_SYSTEM_FOR_AMBULANCE) This link aims a specific scenario, ambulance case|
+|Air Monitoring| With the app on your smartphone, you can see for quality, carbon dioxide and smog-like gasses, carbon monoxide in confined areas, and indoor ozone levels..|[IoT Based Environmental Monitoring System](http://www.ijste.org/articles/IJSTEV4I9025.pdf) |
 
 
 ### IoT sensors that can be used
