@@ -62,5 +62,6 @@ We intend to expand this model to the university campus with an objective of imp
 | Algorithm name | Algorithm category | Usage in environment monitoring | Type of data needed | IoT sensors | Reference |
 |----------------|--------------------|---------------------------------|---------------------|-------------|-----------|
 | Synaptic.js    | Neural Network     | It can be used for PID control of environmental variables, such as controlling the temperature of the environment and predicting the need to continue or not with the control system connected, contributing to the reduction of energy consumption. | Sensor signal, temperature set point and hysteresis | DHT22 | [Synaptc.js](http://caza.la/synaptic/#/xor) |
+| Advanced K-Means   | Neural Clouds     |  It is proposed to group the data sets by data type, sensor location and possible dependencies within the data sets. | Atmospheric pressure, wind, seasonal temperature fluctuations  | DHT22 | [UrbanFlood project]( http://UrbanFlood.eu) |
 ### Web platform design 
 
