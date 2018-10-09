@@ -41,7 +41,6 @@ The big data is processed and analysed using machine learning algorithms by proc
 We intend to expand this model to the university campus with an objective of implementing the smart city framework by integrating the data collected from various IOT sensors installed at different parts of the campus with IOT protocols that trigger the commands based on user configuration. To enhance the usability of our smart city framework and to speed up the development of this framework, the APIs of our framework will be implemented using open source technologies.
 
 
-
 ### Issues that can be solved using this framework
 
 |Issue                                         | Description  | Url | 
