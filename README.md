@@ -41,13 +41,13 @@ The big data is processed and analysed using machine learning algorithms by proc
 We intend to expand this model to the university campus with an objective of implementing the smart city framework by integrating the data collected from various IOT sensors installed at different parts of the campus with IOT protocols that trigger the commands based on user configuration. To enhance the usability of our smart city framework and to speed up the development of this framework, the APIs of our framework will be implemented using open source technologies.
 
 
-
 ### Issues that can be solved using this framework
 
 |Issue                                         | Description  | Url | 
 |----------------------------------------------|--------------|-----|
 |Parking Car on street| With the app on your smartphone, you can see how many parking spaces are available. In addition to showing on your smartphone, you can view how many parking spaces are available on the boards that address the streets.|[Intelligent Parking Space Detection System Based on Image Processing](http://ijimt.org/papers/228-G0038.pdf) |
 |Adapting semaphore on a emergency case|Intelligent semaphore can be adapting when ocuurs a emergency cases, like a crash car, medical emergency case with ambulance, traffic jam. |[SMART_TRAFFIC_CONTROL_SYSTEM_FOR_AMBULANCE](https://www.researchgate.net/publication/315565890_SMART_TRAFFIC_CONTROL_SYSTEM_FOR_AMBULANCE) This link aims a specific scenario, ambulance case|
+|Air Monitoring| With the app on your smartphone, you can see for quality, carbon dioxide and smog-like gasses, carbon monoxide in confined areas, and indoor ozone levels..|[IoT Based Environmental Monitoring System](http://www.ijste.org/articles/IJSTEV4I9025.pdf) |
 
 
 ### IoT sensors that can be used
@@ -62,5 +62,6 @@ We intend to expand this model to the university campus with an objective of imp
 | Algorithm name | Algorithm category | Usage in environment monitoring | Type of data needed | IoT sensors | Reference |
 |----------------|--------------------|---------------------------------|---------------------|-------------|-----------|
 | Synaptic.js    | Neural Network     | It can be used for PID control of environmental variables, such as controlling the temperature of the environment and predicting the need to continue or not with the control system connected, contributing to the reduction of energy consumption. | Sensor signal, temperature set point and hysteresis | DHT22 | [Synaptc.js](http://caza.la/synaptic/#/xor) |
+| Advanced K-Means   | Neural Clouds     |  It is proposed to group the data sets by data type, sensor location and possible dependencies within the data sets. | Atmospheric pressure, wind, seasonal temperature fluctuations  | DHT22 | [UrbanFlood project]( http://UrbanFlood.eu) |
 ### Web platform design 
 
