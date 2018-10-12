@@ -48,6 +48,7 @@ We intend to expand this model to the university campus with an objective of imp
 |----------------------------------------------|--------------|-----|
 |Parking Car on street| With the app on your smartphone, you can see how many parking spaces are available. In addition to showing on your smartphone, you can view how many parking spaces are available on the boards that address the streets.|[Intelligent Parking Space Detection System Based on Image Processing](http://ijimt.org/papers/228-G0038.pdf) |
 |Adapting semaphore on a emergency case|Intelligent semaphore can be adapting when ocuurs a emergency cases, like a crash car, medical emergency case with ambulance, traffic jam. |[SMART_TRAFFIC_CONTROL_SYSTEM_FOR_AMBULANCE](https://www.researchgate.net/publication/315565890_SMART_TRAFFIC_CONTROL_SYSTEM_FOR_AMBULANCE) This link aims a specific scenario, ambulance case|
+|Measuring city air quality|Using several air quality sensors around the city area, you can measure air quality trends and recommend citizens to avoid/prefer selected areas for f.ex. commuting|[Traffic & Air Quality Forecast for Helsinki](https://helsinki-traffic-forecast.vaiste.com/#/about)|
 
 
 ### IoT sensors that can be used
@@ -56,6 +57,7 @@ We intend to expand this model to the university campus with an objective of imp
 |----------------------------------------------|---------------|---------|------|
 | DHT22 |temperature-humidity sensor | Used to measure air temperature and humidity. | [Adafruit](https://learn.adafruit.com/dht)     |
 | UVM-30A UVA/UVB | UV Sensor | The UV Sensor is used for detecting the intensity of incident ultraviolet(UV) radiation. | [The Turtles Bay project](https://sites.google.com/site/myterrarium23/domotique/uvm-30a-uva-uvb-sensor)     |
+| CCS811 |air quality sensor | Used to measure air quality (eCO2) | [Adafruit](https://www.adafruit.com/product/3566)     |
 
 ### Machine Learning algorithms that can be used
 
